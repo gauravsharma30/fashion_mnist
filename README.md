@@ -24,8 +24,20 @@ This project explores the classification of Fashion MNIST using a neural network
 ## Results 
 
 ### Model with 4 layers
-- ![image](https://github.com/user-attachments/assets/380a8f80-627b-4e65-af47-46c33ab477b5)
+![image](https://github.com/user-attachments/assets/7d744ddf-1129-4ccd-bdc4-6b85e9a5c131)
 
+### Model with 3 layers
+![image](https://github.com/user-attachments/assets/6c036ed4-d1f5-4a9d-8241-15a6f3638011)
 
+### Model with 5 layers
+![image](https://github.com/user-attachments/assets/e3704c5f-16d2-421a-8a81-bace5929bfaa)
 
+### Model with fewer neurons layers
+![image](https://github.com/user-attachments/assets/d51e4128-7e06-445a-80d4-fe2eb65c8f48)
+
+### Model with more neurons layers
+![image](https://github.com/user-attachments/assets/c3dbb03a-3c4a-4226-bef8-e60fd530571b)
+
+### Model with 3 layers and more neurons
+![image](https://github.com/user-attachments/assets/9150ad12-6ff4-421f-b073-1c5d883fd3da)
 
