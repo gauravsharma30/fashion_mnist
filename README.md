@@ -11,13 +11,21 @@ This project explores the classification of Fashion MNIST using a neural network
 - **Sample Predictions**: TensorBoard logs/screenshots
 
 ### Ablation Study
-| Model Variant                 | Test Accuracy     | Sample Predictions           |
-|-------------------------------|-------------------|------------------------------|
-| 4 Hidden Layers               | 0.8841            | TensorBoard logs/screenshots |
-| 3 Hidden Layers               | 0.8870            | TensorBoard logs/screenshots |
-| 5 Hidden Layers               | 0.8855            | TensorBoard logs/screenshots |
-| Fewer Neurons per Layer       | 0.8672            | TensorBoard logs/screenshots |
-| More Neurons per Layer        | 0.8853            | TensorBoard logs/screenshots |
-| 3 Hidden Layers & more neurons| 0.8876            | TensorBoard logs/screenshots |
+| Model Variant                 | Test Accuracy     |
+|-------------------------------|-------------------|
+| 4 Hidden Layers               | 0.8841            |
+| 3 Hidden Layers               | 0.8870            |
+| 5 Hidden Layers               | 0.8855            |
+| Fewer Neurons per Layer       | 0.8672            |
+| More Neurons per Layer        | 0.8853            |
+| 3 Hidden Layers & more neurons| 0.8876            |
+
+
+## Results 
+
+### Model with 4 layers
+- ![image](https://github.com/user-attachments/assets/380a8f80-627b-4e65-af47-46c33ab477b5)
+
+
 
 
