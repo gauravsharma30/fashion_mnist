@@ -4,7 +4,7 @@
 ## Project Overview
 This project explores the classification of Fashion MNIST using a neural network with 4 hidden layers and performs an ablation study to analyze the impact of varying layers and neurons.
 
-## Results
+
 
 ### Baseline Model (4 Hidden Layers)
 - **Test Accuracy**: 0.8881
@@ -20,9 +20,4 @@ This project explores the classification of Fashion MNIST using a neural network
 | More Neurons per Layer        | 0.8853            | TensorBoard logs/screenshots |
 | 3 Hidden Layers & more neurons| 0.8876            | TensorBoard logs/screenshots |
 
-## TensorBoard Visualizations
-Include screenshots or direct links to TensorBoard logs.
-
-## Conclusion
-Brief summary of the findings.
 
